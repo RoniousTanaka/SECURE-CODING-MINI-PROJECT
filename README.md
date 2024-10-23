@@ -15,8 +15,7 @@ This project provides a web-based platform for students to sign up and sign in. 
 
 ## Installation Instructions
 1. Clone the repository:
-git clone https://github.com/yourusername/school-web-app.git
-
+git clone 
 
 2. Navigate to the project directory:
 cd school-web-app
