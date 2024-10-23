@@ -49,7 +49,8 @@ Feel free to open issues and submit pull requests for enhancements or bug fixes.
 This project is licensed under the MIT License.
 
 ## Contact Information
-For questions or feedback, reach me at your h230725y@hit.ac.zw.
+For questions or feedback, reach me at h230725y@hit.ac.zw.
+
 
 # salutation to Harare Institute of Technology 
 # salutation to Mr B Nyaruviro 
